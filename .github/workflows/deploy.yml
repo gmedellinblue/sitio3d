@@ -3,7 +3,7 @@ name: Deploy React App to GitHub Pages
 on:
   push:
     branches:
-      - main # Cambie 'main' por el nombre de su rama principal si es diferente (ej. master)
+      - master # Cambie 'main' por el nombre de su rama principal si es diferente (ej. master)
 
 jobs:
   build-and-deploy:
