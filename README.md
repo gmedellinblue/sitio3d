@@ -52,14 +52,19 @@ npm -v
 
 Instalación y ejecución
 1- Clonar el repositorio
+
 git clone https://github.com/USUARIO/kubota-3d.git
 cd kubota-3d
+
 2- Instalar dependencias
 npm install
+
 3- Ejecutar en modo desarrollo
 npm run dev
+
 Vite mostrará una URL similar a:
 http://localhost:5173
+
 Ábrela en tu navegador.
 
 ---
